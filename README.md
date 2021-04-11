@@ -1,0 +1,2 @@
+# deneme
+bilgisayardan githuba atıyoruz
